@@ -1,4 +1,4 @@
-package com.sardeni.tests.helpers;
+package com.sardeni.helpers;
 
 import io.qameta.allure.restassured.AllureRestAssured;
 
